@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git status
 git add
 it my live
@@ -5,3 +6,13 @@ learn to test
 warning
 stop it
 
+=======
+SQL
+Postman
+JavaScript
+Gitbush
+the future is determined
+all in our hands
+nothing to commit
+merge made
+>>>>>>> payment
