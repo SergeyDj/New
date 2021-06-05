@@ -4,3 +4,5 @@ JavaScript
 Gitbush
 the future is determined
 all in our hands
+nothing to commit
+merge made
