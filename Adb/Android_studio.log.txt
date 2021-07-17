@@ -1,0 +1,138 @@
+07-13 20:00:11.438 1621-1641/system_process I/ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.todolist/.MainActivity (has extras)} from uid 10009 on display 0
+07-13 20:00:12.094 1621-1786/system_process I/ActivityManager: Start proc 3270:com.android.todolist/u0a61 for activity com.android.todolist/.MainActivity
+07-13 20:00:12.093 3270-3270/com.android.todolist I/art: Not late-enabling -Xcheck:jni (already on)
+07-13 20:00:12.177 3270-3270/com.android.todolist W/System: ClassLoader referenced unknown path: /data/app/com.android.todolist-1/lib/x86
+07-13 20:00:12.438 3270-3270/com.android.todolist W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+07-13 20:00:12.617 3270-3270/com.android.todolist I/art: Rejecting re-init on previously-failed class java.lang.Class<androidx.core.view.ViewCompat$2>
+07-13 20:00:12.618 3270-3270/com.android.todolist I/art: Rejecting re-init on previously-failed class java.lang.Class<androidx.core.view.ViewCompat$2>
+07-13 20:00:12.971 3270-3292/com.android.todolist D/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+07-13 20:00:13.082 3270-3292/com.android.todolist I/OpenGLRenderer: Initialized EGL, version 1.4
+07-13 20:00:13.091 3270-3292/com.android.todolist D/EGL_emulation: eglCreateContext: 0xb40ace40: maj 2 min 0 rcv 2
+07-13 20:00:13.095 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 20:00:13.137 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 20:00:14.261 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.MainActivity: +2s179ms
+07-13 20:00:14.262 3270-3270/com.android.todolist I/Choreographer: Skipped 63 frames!  The application may be doing too much work on its main thread.
+07-13 21:02:23.607 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:23.628 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:23.660 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:24.136 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:24.157 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:24.219 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:24.529 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:24.577 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:24.896 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:24.980 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:25.167 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:27.000 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:27.392 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:34.293 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:34.296 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xb40fdca0
+07-13 21:02:34.311 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:37.587 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:37.601 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:37.636 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:37.662 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:37.704 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:37.758 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:38.148 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:38.193 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:38.643 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:39.545 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:39.598 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:44.541 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:44.543 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d19000
+07-13 21:02:44.565 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:50.281 1621-1789/system_process I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10061 on display 0
+07-13 21:02:50.379 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:50.414 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:50.540 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:50.700 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:50.893 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.ListActivity: +596ms
+07-13 21:02:50.949 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xb40fd700
+07-13 21:02:52.359 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xb40fdc00
+07-13 21:02:54.540 1621-1642/system_process I/ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10061 on display 0
+07-13 21:02:54.835 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:54.863 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:54.992 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:55.063 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:55.111 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:55.121 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.MainActivity: +542ms
+07-13 21:02:55.255 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:55.285 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:55.299 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d19780
+07-13 21:02:55.505 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:56.934 1621-1642/system_process I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10061 on display 0
+07-13 21:02:57.034 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:57.058 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:57.128 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:57.316 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:02:57.455 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.ListActivity: +502ms
+07-13 21:02:57.470 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xb40fdc00
+07-13 21:02:59.043 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d19aa0
+07-13 21:03:00.044 1621-2034/system_process I/ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10061 on display 0
+07-13 21:03:00.322 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:00.349 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:00.442 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:00.499 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:00.617 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:00.637 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.MainActivity: +558ms
+07-13 21:03:00.687 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:00.737 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:00.747 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d1a180
+07-13 21:03:00.817 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:04.098 1621-2096/system_process I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10061 on display 0
+07-13 21:03:04.193 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:04.208 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:04.322 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:04.478 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:04.642 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.ListActivity: +531ms
+07-13 21:03:04.670 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d19960
+07-13 21:03:06.217 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d1a180
+07-13 21:03:06.221 1621-1789/system_process I/ActivityManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10061 on display 0
+07-13 21:03:06.574 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:06.601 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:06.655 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:06.737 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:06.796 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:06.805 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.MainActivity: +540ms
+07-13 21:03:06.900 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d19780
+07-13 21:03:06.921 3270-3292/com.android.todolist D/OpenGLRenderer: endAllStagingAnimators on 0xa08c3f80 (RippleDrawable) with handle 0xa0d3f060
+07-13 21:03:10.378 3270-3270/com.android.todolist I/ListPopupWindow: Could not find method setEpicenterBounds(Rect) on PopupWindow. Oh well.
+07-13 21:03:10.392 3270-3270/com.android.todolist W/art: Before Android 4.1, method int androidx.appcompat.widget.DropDownListView.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+07-13 21:03:10.392 3270-3270/com.android.todolist W/art: Before Android 4.1, method int androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+07-13 21:03:10.475 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:10.494 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:10.525 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:10.638 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:10.652 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:10.777 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:10.803 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:10.995 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:12.108 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:12.801 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:12.828 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:13.151 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-13 21:03:13.182 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d19000
+07-13 21:51:32.073 3270-3276/com.android.todolist I/art: Debugger is no longer active
+07-13 21:51:32.193 3270-3276/com.android.todolist W/art: Suspending all threads took: 102.827ms
+07-16 14:21:53.927 1621-2096/system_process I/ActivityManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10061 on display 0
+07-16 14:21:54.647 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:21:54.674 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:21:55.841 3270-3270/com.android.todolist I/Choreographer: Skipped 70 frames!  The application may be doing too much work on its main thread.
+07-16 14:21:55.847 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:21:56.016 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:21:56.281 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d19000
+07-16 14:21:56.339 1621-1659/system_process I/ActivityManager: Displayed com.android.todolist/.ListActivity: +1s862ms
+07-16 14:21:56.475 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d1a040
+07-16 14:21:59.240 3270-3270/com.android.todolist I/Choreographer: Skipped 39 frames!  The application may be doing too much work on its main thread.
+07-16 14:22:04.819 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:05.254 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:05.744 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:05.805 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:05.866 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:06.294 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:09.345 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d1a180
+07-16 14:22:47.990 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:48.175 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
+07-16 14:22:48.182 3270-3292/com.android.todolist E/Surface: getSlotFromBufferLocked: unknown buffer: 0xa0d1afe0
+07-16 14:22:54.560 3270-3292/com.android.todolist D/EGL_emulation: eglMakeCurrent: 0xb40ace40: ver 2 0 (tinfo 0xaaa3f6e0)
